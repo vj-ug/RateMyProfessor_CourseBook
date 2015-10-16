@@ -7,4 +7,4 @@ A chrome extension which lets you see Professor ratings from RateMyProfessor on 
   
   - ~~Currently it only supports my university,~~ however I plan to collaborate with my friends at different universities to create a big list of supported universities.
   
-  - Update Works with ANY university. You do need to change the link of your college in the source code.   I am currently working on to make a GUI for the same.
+  - Update: Works with ANY university. You do need to change the link of your college in the source code.   I am currently working on to make a GUI for the same.
