@@ -3,7 +3,7 @@
 It is extremely important that you change the variable schoolname to YOUR university 
 to make this extension to work. 
 
-schoolanem is the first variable declared
+schoolname is the first variable declared
 
 
 *******************************************************///
